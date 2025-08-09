@@ -46,7 +46,7 @@ Cuenta con interfaz gráfica, sonidos, y almacenamiento de puntajes. Desarrollo 
 ### 🔧 1. Clona el repositorio
 
 `
-git clone https://github.com/TU_USUARIO/pygame-tictactoe.git
+git clone https://github.com/GV-JeanPool/pygame-tictactoe.git
 cd pygame-tictactoe
 `
 
