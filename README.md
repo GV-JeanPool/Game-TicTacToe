@@ -1,5 +1,8 @@
 # 🎮 Game - Tic Tac Toe 
 
+**Tic Tac Toe** (Tres en línea) es un mini-juego clásico hecho con **Python + Pygame**.  
+Cuenta con interfaz gráfica, sonidos, y almacenamiento de puntajes. Desarrollo de videojuego 2D.
+
 [![Version](https://img.shields.io/badge/Versión-1.0.0-brightgreen?style=for-the-badge)]()
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-2.1.3-green?style=for-the-badge&logo=pygame)](https://www.pygame.org/)
@@ -9,14 +12,7 @@
 
 ## 🖼️ Vista previa
 
-![Vista previa del juego](media/captura-.png)
-
----
-
-## 🎯 Descripción
-
-**Tic Tac Toe** (Tres en línea) es un mini-juego clásico hecho con **Python + Pygame**.  
-Cuenta con interfaz gráfica, sonidos, y almacenamiento de puntajes. Desarrollo de videojuego 2D.
+![Vista previa del juego](media/captura.png)
 
 ---
 
